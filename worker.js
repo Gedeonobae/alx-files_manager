@@ -71,3 +71,4 @@ userQueue.process(async (job) => {
 
   console.log(`Welcome ${user.email}!`);
 });
+
