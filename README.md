@@ -2,7 +2,7 @@
 
 ## Tasks
 
-### 0. Redis utils
+### 0. Redis utils....
 
 <p>Inside the folder utils, create a file redis.js that contains the class RedisClient.
 
