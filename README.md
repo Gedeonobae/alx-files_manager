@@ -8,6 +8,8 @@
 
 RedisClient should have:
 
+
+
 the constructor that creates a client to Redis:
 
 any error of the redis client must be displayed in the console (you should use on('error') of the redis client)
