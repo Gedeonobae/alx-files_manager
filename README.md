@@ -1,5 +1,6 @@
 # 0x04. Files manager
 <!-- Adding resources-->
+## Resources
 
 ## Tasks
 
