@@ -1,5 +1,7 @@
 # 0x04. Files manager
 
+## Resources
+
 ## Tasks
 
 ### 0. Redis utils
