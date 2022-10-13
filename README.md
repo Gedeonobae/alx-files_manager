@@ -1,6 +1,7 @@
 # 0x04. Files manager
 <!-- Adding resources-->
 ## Resources
+* <a href="#"> RedisClient </a>
 
 ## Tasks
 
