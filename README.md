@@ -1,10 +1,13 @@
 # 0x04. Files manager
+<!-- Adding resources-->
+## Resources
+* <a href="#"> RedisClient </a>
 
 ## Resources
 
 ## Tasks
 
-### 0. Redis utils
+### 0. Redis utils....
 
 <p>Inside the folder utils, create a file redis.js that contains the class RedisClient.
 
