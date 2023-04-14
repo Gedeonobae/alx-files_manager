@@ -25,6 +25,7 @@ an asynchronous function del that takes a string key as argument and remove the 
 After the class definition, create and export an instance of RedisClient called redisClient. </p>
 
 ``` bob@dylan:~$ cat main.js
+
 import redisClient from './utils/redis';
 
 (async () => {
